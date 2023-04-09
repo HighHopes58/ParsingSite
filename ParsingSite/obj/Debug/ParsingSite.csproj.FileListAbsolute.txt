@@ -1,0 +1,9 @@
+D:\c_shap_lessons\ParsingSite\ParsingSite\bin\Debug\ParsingSite.exe
+D:\c_shap_lessons\ParsingSite\ParsingSite\bin\Debug\ParsingSite.pdb
+D:\c_shap_lessons\ParsingSite\ParsingSite\obj\Debug\ParsingSite.csproj.AssemblyReference.cache
+D:\c_shap_lessons\ParsingSite\ParsingSite\obj\Debug\ParsingSite.Form1.resources
+D:\c_shap_lessons\ParsingSite\ParsingSite\obj\Debug\ParsingSite.Properties.Resources.resources
+D:\c_shap_lessons\ParsingSite\ParsingSite\obj\Debug\ParsingSite.csproj.GenerateResource.cache
+D:\c_shap_lessons\ParsingSite\ParsingSite\obj\Debug\ParsingSite.csproj.CoreCompileInputs.cache
+D:\c_shap_lessons\ParsingSite\ParsingSite\obj\Debug\ParsingSite.exe
+D:\c_shap_lessons\ParsingSite\ParsingSite\obj\Debug\ParsingSite.pdb
